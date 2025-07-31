@@ -1,0 +1,135 @@
+[
+  {
+    "id": "m1",
+    "title_mr": "ॐ मंत्र",
+    "title_hi": "ॐ मंत्र",
+    "mantra_text": "ॐ ॥",
+    "audio_filename": "om_mantra_108.mp3"
+  },
+  {
+    "id": "m2",
+    "title_mr": "शिव मंत्र",
+    "title_hi": "शिव मंत्र",
+    "mantra_text": "ॐ नमः शिवाय ॥",
+    "audio_filename": "om_namah_shivaya_108.mp3"
+  },
+  {
+    "id": "m3",
+    "title_mr": "गणपती मंत्र",
+    "title_hi": "गणपति मंत्र",
+    "mantra_text": "ॐ गं गणपतये नमः ॥",
+    "audio_filename": "om_gan_ganapataye_namah_108.mp3"
+  },
+  {
+    "id": "m4",
+    "title_mr": "वक्रतुंड महाकाय",
+    "title_hi": "वक्रतुण्ड महाकाय",
+    "mantra_text": "वक्रतुंड महाकाय सूर्यकोटी समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+    "audio_filename": "vakratunda_mahakaya_108.mp3"
+  },
+  {
+    "id": "m5",
+    "title_mr": "गायत्री मंत्र",
+    "title_hi": "गायत्री मंत्र",
+    "mantra_text": "ॐ भूर्भुवः स्वः\nतत्सवितुर्वरेण्यं\nभर्गो देवस्य धीमहि\nधियो यो नः प्रचोदयात् ॥",
+    "audio_filename": "gayatri_mantra_108.mp3"
+  },
+  {
+    "id": "m6",
+    "title_mr": "कृष्ण मंत्र",
+    "title_hi": "कृष्ण मंत्र",
+    "mantra_text": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने\nप्रणत क्लेशनाशाय गोविंदाय नमो नमः ॥",
+    "audio_filename": "krishnaya_vasudevaya_108.mp3"
+  },
+  {
+    "id": "m7",
+    "title_mr": "महामृत्युंजय मंत्र",
+    "title_hi": "महामृत्युंजय मंत्र",
+    "mantra_text": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्\nउर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात् ॥",
+    "audio_filename": "mahamrityunjay_mantra_108.mp3"
+  },
+  {
+    "id": "m8",
+    "title_mr": "महालक्ष्मी मंत्र",
+    "title_hi": "महालक्ष्मी मंत्र",
+    "mantra_text": "ॐ श्रीं महालक्ष्म्यै नमः ॥",
+    "audio_filename": "om_shreem_mahalakshmyai_namah_108.mp3"
+  },
+  {
+    "id": "m9",
+    "title_mr": "हनुमान मंत्र",
+    "title_hi": "हनुमान मंत्र",
+    "mantra_text": "ॐ हं हनुमते नमः ॥",
+    "audio_filename": "om_ham_hanumate_namah_108.mp3"
+  },
+  {
+    "id": "m10",
+    "title_mr": "कालिका मंत्र",
+    "title_hi": "कालिका मंत्र",
+    "mantra_text": "ॐ क्रीं कालिकायै नमः ॥",
+    "audio_filename": "om_kreem_kalikayai_namah_108.mp3"
+  },
+  {
+    "id": "m11",
+    "title_mr": "दुर्गा मंत्र",
+    "title_hi": "दुर्गा मंत्र",
+    "mantra_text": "ॐ दुं दुर्गायै नमः ॥",
+    "audio_filename": "om_dum_durgayai_namah_108.mp3"
+  },
+  {
+    "id": "m12",
+    "title_mr": "वासुदेव मंत्र",
+    "title_hi": "वासुदेव मंत्र",
+    "mantra_text": "ॐ नमो भगवते वासुदेवाय ॥",
+    "audio_filename": "om_namo_bhagavate_vasudevaya_108.mp3"
+  },
+  {
+    "id": "m13",
+    "title_mr": "राधा-कृष्ण मंत्र",
+    "title_hi": "राधा-कृष्ण मंत्र",
+    "mantra_text": "ॐ राधा कृष्णाय नमः ॥",
+    "audio_filename": "om_radha_krishnaya_namah_108.mp3"
+  },
+  {
+    "id": "m14",
+    "title_mr": "कमला लक्ष्मी मंत्र",
+    "title_hi": "कमला लक्ष्मी मंत्र",
+    "mantra_text": "ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद श्रीं ह्रीं श्रीं ॐ महालक्ष्मी नमः ॥",
+    "audio_filename": "mahalakshmi_kamale_kamalalaye_108.mp3"
+  },
+  {
+    "id": "m15",
+    "title_mr": "विष्णू मंत्र",
+    "title_hi": "विष्णु मंत्र",
+    "mantra_text": "ॐ विष्णवे नमः ॥",
+    "audio_filename": "om_vishnave_namah_108.mp3"
+  },
+  {
+    "id": "m16",
+    "title_mr": "श्री राम मंत्र",
+    "title_hi": "श्री राम मंत्र",
+    "mantra_text": "ॐ श्रीरामाय नमः ॥",
+    "audio_filename": "om_shriramay_namah_108.mp3"
+  },
+  {
+    "id": "m17",
+    "title_mr": "सरस्वती मंत्र",
+    "title_hi": "सरस्वती मंत्र",
+    "mantra_text": "ॐ ऐं सरस्वत्यै नमः ॥",
+    "audio_filename": "om_aim_saraswatyai_namah_108.mp3"
+  },
+  {
+    "id": "m18",
+    "title_mr": "सूर्यनारायण मंत्र",
+    "title_hi": "सूर्यनारायण मंत्र",
+    "mantra_text": "ॐ सवितृ सूर्यनारायणाय नमः ॥",
+    "audio_filename": "om_savitru_suryanarayanaya_namah_108.mp3"
+  },
+  {
+    "id": "m19",
+    "title_mr": "राम बीज मंत्र",
+    "title_hi": "राम बीज मंत्र",
+    "mantra_text": "ॐ ह्रां ह्रीं रां रामाय नमः ॥",
+    "audio_filename": "om_hraam_hreem_raum_ramaya_namah_108.mp3"
+  }
+]
