@@ -56,6 +56,13 @@
     "audio_filename": "om_shreem_mahalakshmyai_namah_108.mp3"
   },
   {
+    "id": "m20",
+    "title_mr": "साईंबाबा मंत्र",
+    "title_hi": "साईंबाबा मंत्र",
+    "mantra_text": "ॐ श्री साईं नाथाय नमः ॥",
+    "audio_filename": "om_sainathya_namah108.mp3"
+  },
+  {
     "id": "m9",
     "title_mr": "हनुमान मंत्र",
     "title_hi": "हनुमान मंत्र",
