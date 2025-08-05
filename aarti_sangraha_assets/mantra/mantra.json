@@ -94,7 +94,7 @@
     "id": "m13",
     "title_mr": "राधा-कृष्ण मंत्र",
     "title_hi": "राधा-कृष्ण मंत्र",
-    "mantra_text": "ॐ कृष्णाय नमः ॥",
+    "mantra_text": "ॐ राधा कृष्णाय नमः ॥",
     "audio_filename": "om_radha_krishnaya_namah_108.mp3"
   },
   {
@@ -124,6 +124,5 @@
     "title_hi": "सरस्वती मंत्र",
     "mantra_text": "ॐ ऐं सरस्वत्यै नमः ॥",
     "audio_filename": "om_aim_saraswatyai_namah_108.mp3"
-  },
+  }
 ]
-
